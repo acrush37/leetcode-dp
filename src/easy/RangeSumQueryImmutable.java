@@ -6,6 +6,8 @@ package easy;
 
 public class RangeSumQueryImmutable {
 
+    private int[] f;
+
     public static void main(String... args) {
 
         int[] nums1 = {-2, 0, 3, -5, 2, -1};
@@ -17,10 +19,15 @@ public class RangeSumQueryImmutable {
 
     public RangeSumQueryImmutable(int[] nums) {
 
+        int n = nums.length;
+        if (n == 0) return;
+        f = new int[n];
+        f[0] = nums[0];
+        for (int i = 1; i < n; i++) f[i] = f[i-1] + nums[i];
     }
 
     public int sumRange(int i, int j) {
-        return 0;
+        return i == 0 ? f[j] : f[j] - f[i-1];
     }
 
 }

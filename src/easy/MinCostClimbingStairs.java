@@ -19,7 +19,12 @@ public class MinCostClimbingStairs {
     }
 
     public int minCostClimbingStairs(int[] cost) {
-        return 0;
+
+        int n = cost.length;
+        int[] f = new int[n+1];
+        f[1] = cost[0];
+        for (int i = 2; i <= n; i++) f[i] = Math.min(f[i-1], f[i-2]) + cost[i-1];
+        return Math.min(f[n], f[n-1]);
     }
 
 }
