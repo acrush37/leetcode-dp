@@ -20,7 +20,20 @@ public class IsSubsequence {
     }
 
     public boolean isSubsequence(String s, String t) {
-        return false;
+
+        int x = s.length();
+        if (x == 0) return true;
+        int y = t.length();
+        char[] a = s.toCharArray();
+        char[] b = t.toCharArray();
+        int[][] f = new int[x+1][y+1];
+
+        for (int i = 1; i <= x; i++)
+            for (int j = 1; j <= y; j++)
+                if (a[i-1] == b[j-1]) f[i][j] = f[i-1][j-1] + 1;
+                else f[i][j] = Math.max(f[i-1][j], f[i][j-1]);
+
+        return f[x][y] == x;
     }
 
 }
