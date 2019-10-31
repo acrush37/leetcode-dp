@@ -27,7 +27,6 @@ Dynamic Programming
 |873|[Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)|[Java](src/medium/LengthOfLongestFibonacciSubsequence.java)|Medium|
 |813|[Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/)|[Java](src/medium/LargestSumOfAverages.java)|Medium|
 |801|[Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)|[Java](src/medium/MinimumSwapsToMakeSequencesIncreasing.java)|Medium|
-|750|[Number Of Corner Rectangles](https://leetcode.com/problems/number-of-corner-rectangles/)|[Java](src/medium/NumberOfCornerRectangles.java)|Medium|
 |718|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|[Java](src/medium/MaximumLengthOfRepeatedSubarray.java)|Medium|
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[Java](src/medium/NumberOfLongestIncreasingSubsequence.java)|Medium|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Java](src/medium/PalindromicSubstrings.java)|Medium|
