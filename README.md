@@ -3,14 +3,7 @@ Dynamic Programming
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[Java](src/easy/DivisorGame.java)|Easy|
-|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Java](src/easy/MinCostClimbingStairs.java)|Easy|
-|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Java](src/easy/IsSubsequence.java)|Easy|
-|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Java](src/easy/RangeSumQueryImmutable.java)|Easy|
-|198|[House Robber](https://leetcode.com/problems/house-robber/)|[Java](src/easy/HouseRobber.java)|Easy|
-|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](src/easy/BestTimeToBuyAndSellStock.java)|Easy|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](src/easy/ClimbingStairs.java)|Easy|
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](src/easy/MaximumSubarray.java)|Easy|
+|1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[Java](src/medium/GreatestSumDivisibleByThree.java)|Medium|
 |1227|[Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/)|[Java](src/medium/AirplaneSeatAssignmentProbability.java)|Medium|
 |1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[Java](src/medium/LongestArithmeticSubsequenceOfGivenDifference.java)|Medium|
 |1186|[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)|[Java](src/medium/MaximumSubarraySumWithOneDeletion.java)|Medium|
@@ -53,3 +46,11 @@ Dynamic Programming
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Java](src/medium/UniquePathsII.java)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Java](src/medium/UniquePaths.java)|Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Java](src/medium/LongestPalindromicSubstring.java)|Medium|
+|1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[Java](src/easy/DivisorGame.java)|Easy|
+|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Java](src/easy/MinCostClimbingStairs.java)|Easy|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Java](src/easy/IsSubsequence.java)|Easy|
+|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Java](src/easy/RangeSumQueryImmutable.java)|Easy|
+|198|[House Robber](https://leetcode.com/problems/house-robber/)|[Java](src/easy/HouseRobber.java)|Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](src/easy/BestTimeToBuyAndSellStock.java)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](src/easy/ClimbingStairs.java)|Easy|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](src/easy/MaximumSubarray.java)|Easy|
