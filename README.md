@@ -14,6 +14,7 @@ Dynamic Programming
 |1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Java](src/medium/LongestStringChain.java)|Medium|
 |1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)|[Java](src/medium/MinimumScoreTriangulationOfPolygon.java)|Medium|
 |1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/)|[Java](src/medium/LongestArithmeticSequence.java)|Medium|
+|1024|[Video Stitching](https://leetcode.com/problems/video-stitching/)|[Java](src/medium/VideoStitching.java)|Medium|
 |983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[Java](src/medium/MinimumCostForTickets.java)|Medium|
 |978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)|[Java](src/medium/LongestTurbulentSubarray.java)|Medium|
 |967|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)|[Java](src/medium/NumbersWithSameConsecutiveDifferences.java)|Medium|
