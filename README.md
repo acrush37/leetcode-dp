@@ -27,6 +27,7 @@ Dynamic Programming
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[Java](src/medium/NumberOfLongestIncreasingSubsequence.java)|Medium|
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)|[Java](src/medium/TwoKeysKeyboard.java)|Medium|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Java](src/medium/PalindromicSubstrings.java)|Medium|
+|646|[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|[Java](src/medium/MaximumLengthOfPairChain.java)|Medium|
 |576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|[Java](src/medium/OutOfBoundaryPaths.java)|Medium|
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[Java](src/medium/ContinuousSubarraySum.java)|Medium|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Java](src/medium/TargetSum.java)|Medium|
