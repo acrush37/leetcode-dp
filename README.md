@@ -8,6 +8,7 @@ Dynamic Programming
 |1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[Java](src/medium/GreatestSumDivisibleByThree.java)|Medium|
 |1227|[Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/)|[Java](src/medium/AirplaneSeatAssignmentProbability.java)|Medium|
 |1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[Java](src/medium/LongestArithmeticSubsequenceOfGivenDifference.java)|Medium|
+|1191|[K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/)|[Java](src/medium/KConcatenationMaximumSum.java)|Medium|
 |1186|[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)|[Java](src/medium/MaximumSubarraySumWithOneDeletion.java)|Medium|
 |1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|[Java](src/medium/NumberOfDiceRollsWithTargetSum.java)|Medium|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Java](src/medium/LongestCommonSubsequence.java)|Medium|
