@@ -19,6 +19,7 @@ Dynamic Programming
 |978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)|[Java](src/medium/LongestTurbulentSubarray.java)|Medium|
 |967|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)|[Java](src/medium/NumbersWithSameConsecutiveDifferences.java)|Medium|
 |931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Java](src/medium/MinimumFallingPathSum.java)|Medium|
+|898|[Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/)|[Java](src/medium/BitwiseOrsOfSubarrays.java)|Medium|
 |877|[Stone Game](https://leetcode.com/problems/stone-game/)|[Java](src/medium/StoneGame.java)|Medium|
 |873|[Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)|[Java](src/medium/LengthOfLongestFibonacciSubsequence.java)|Medium|
 |813|[Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/)|[Java](src/medium/LargestSumOfAverages.java)|Medium|
