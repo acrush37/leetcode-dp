@@ -37,10 +37,9 @@ public class OnesAndZeroes {
                 for (int k = 0; k <= n; k++)
                     f[q][j][k] = f[q^1][j][k];
 
-            for (int j = 0; j <= m; j++)
-                for (int k = 0; k <= n; k++)
-                    if (t[i][0] <= j && t[i][1] <= k)
-                        f[q][j][k] = Math.max(f[q][j][k], 1 + f[q^1][j - t[i][0]][k - t[i][1]]);
+            for (int j = t[i][0]; j <= m; j++)
+                for (int k = t[i][1]; k <= n; k++)
+                        f[q][j][k] = Math.max(f[q][j][k], 1 + f[q^1][j-t[i][0]][k-t[i][1]]);
         }
 
         return f[p & 1][m][n];

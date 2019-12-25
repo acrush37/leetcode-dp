@@ -23,21 +23,19 @@ public class VideoStitching {
 
     public int videoStitching(int[][] clips, int T) {
 
-        int p = 0, k = 0, result = 0, n = clips.length;
+        int j = -1, k = 0, result = 0, n = clips.length;
         Arrays.sort(clips, (x, y) -> x[0] == y[0] ? x[1] - y[1] : x[0] - y[0]);
 
         while (true) {
 
-            int j = 0, max = k;
+            if (++j == n || clips[j][0] > k) return -1;
 
-            for (int i = p; i < n; i++)
+            for (int i = j+1; i < n; i++)
                 if (clips[i][0] > k) break;
-                else if (clips[i][1] > max) max = clips[j = i][1];
+                else if (clips[i][1] > clips[j][1]) j = i;
 
-            if (max == k) return -1;
             result++;
-            if ((k = max) >= T) return result;
-            p = j+1;
+            if ((k = clips[j][1]) >= T) return result;
         }
     }
 
