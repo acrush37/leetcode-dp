@@ -7,6 +7,7 @@ Dynamic Programming
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Java](src/medium/CountSquareSubmatricesWithAllOnes.java)|Medium|
 |1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[Java](src/medium/GreatestSumDivisibleByThree.java)|Medium|
 |1227|[Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/)|[Java](src/medium/AirplaneSeatAssignmentProbability.java)|Medium|
+|1223|[Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/)|[Java](src/medium/DiceRollSimulation.java)|Medium|
 |1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[Java](src/medium/LongestArithmeticSubsequenceOfGivenDifference.java)|Medium|
 |1191|[K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/)|[Java](src/medium/KConcatenationMaximumSum.java)|Medium|
 |1186|[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)|[Java](src/medium/MaximumSubarraySumWithOneDeletion.java)|Medium|
