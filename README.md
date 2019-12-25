@@ -54,6 +54,7 @@ Dynamic Programming
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](src/medium/LongestIncreasingSubsequence.java)|Medium|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[Java](src/medium/UglyNumberII.java)|Medium|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Java](src/medium/MaximalSquare.java)|Medium|
+|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Java](src/medium/HouseRobberII.java)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Java](src/medium/MaximumProductSubarray.java)|Medium|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[Java](src/medium/WordBreak.java)|Medium|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Java](src/medium/Triangle.java)|Medium|
