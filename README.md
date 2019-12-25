@@ -19,6 +19,7 @@ Dynamic Programming
 |983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[Java](src/medium/MinimumCostForTickets.java)|Medium|
 |978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)|[Java](src/medium/LongestTurbulentSubarray.java)|Medium|
 |967|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)|[Java](src/medium/NumbersWithSameConsecutiveDifferences.java)|Medium|
+|935|[Knight Dialer](https://leetcode.com/problems/knight-dialer/)|[Java](src/medium/KnightDialer.java)|Medium|
 |931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Java](src/medium/MinimumFallingPathSum.java)|Medium|
 |898|[Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/)|[Java](src/medium/BitwiseOrsOfSubarrays.java)|Medium|
 |877|[Stone Game](https://leetcode.com/problems/stone-game/)|[Java](src/medium/StoneGame.java)|Medium|
