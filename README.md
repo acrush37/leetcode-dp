@@ -27,6 +27,7 @@ Dynamic Programming
 |898|[Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/)|[Java](src/medium/BitwiseOrsOfSubarrays.java)|Medium|
 |877|[Stone Game](https://leetcode.com/problems/stone-game/)|[Java](src/medium/StoneGame.java)|Medium|
 |873|[Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)|[Java](src/medium/LengthOfLongestFibonacciSubsequence.java)|Medium|
+|838|[Push Dominoes](https://leetcode.com/problems/push-dominoes/)|[Java](src/medium/PushDominoes.java)|Medium|
 |813|[Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/)|[Java](src/medium/LargestSumOfAverages.java)|Medium|
 |801|[Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)|[Java](src/medium/MinimumSwapsToMakeSequencesIncreasing.java)|Medium|
 |790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)|[Java](src/medium/DominoAndTrominoTiling.java)|Medium|
