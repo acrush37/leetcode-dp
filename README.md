@@ -3,6 +3,7 @@ Dynamic Programming
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)|[Java](src/hard/MaximumProfitInJobScheduling.java)|Hard|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Java](src/hard/BestTimeBuyAndSellStockIII.java)|Hard|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Java](src/medium/CountSquareSubmatricesWithAllOnes.java)|Medium|
 |1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[Java](src/medium/GreatestSumDivisibleByThree.java)|Medium|
