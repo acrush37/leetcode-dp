@@ -14,6 +14,7 @@ Dynamic Programming
 |1186|[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)|[Java](src/medium/MaximumSubarraySumWithOneDeletion.java)|Medium|
 |1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|[Java](src/medium/NumberOfDiceRollsWithTargetSum.java)|Medium|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Java](src/medium/LongestCommonSubsequence.java)|Medium|
+|1140|[Stone Game II](https://leetcode.com/problems/stone-game-ii/)|[Java](src/medium/StoneGameII.java)|Medium|
 |1139|[Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/)|[Java](src/medium/Largest1BorderedSquare.java)|Medium|
 |1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Java](src/medium/LongestStringChain.java)|Medium|
 |1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)|[Java](src/medium/MinimumScoreTriangulationOfPolygon.java)|Medium|
