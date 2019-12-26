@@ -34,6 +34,7 @@ Dynamic Programming
 |718|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|[Java](src/medium/MaximumLengthOfRepeatedSubarray.java)|Medium|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Java](src/medium/BestTimeBuyAndSellStockWithTransactionFee.java)|Medium|
 |712|[Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)|[Java](src/medium/MinimumAsciiDeleteSumForTwoStrings.java)|Medium|
+|698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|[Java](src/medium/PartitionToKEqualSumSubsets.java)|Medium|
 |688|[Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)|[Java](src/medium/KnightProbabilityInChessboard.java)|Medium|
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[Java](src/medium/NumberOfLongestIncreasingSubsequence.java)|Medium|
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)|[Java](src/medium/TwoKeysKeyboard.java)|Medium|
