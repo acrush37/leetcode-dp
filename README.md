@@ -51,6 +51,7 @@ Dynamic Programming
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Java](src/medium/TargetSum.java)|Medium|
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Java](src/medium/PredictTheWinner.java)|Medium|
 |474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[Java](src/medium/OnesAndZeroes.java)|Medium|
+|469|[Can I Win](https://leetcode.com/problems/can-i-win/)|[Java](src/medium/CanIWin.java)|Medium|
 |467|[Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/)|[Java](src/medium/UniqueSubstringsInWraparoundString.java)|Medium|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Java](src/medium/PartitionEqualSubsetSum.java)|Medium|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[Java](src/medium/ArithmeticSlices.java)|Medium|
