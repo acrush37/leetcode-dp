@@ -34,6 +34,7 @@ Dynamic Programming
 |801|[Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)|[Java](src/medium/MinimumSwapsToMakeSequencesIncreasing.java)|Medium|
 |790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)|[Java](src/medium/DominoAndTrominoTiling.java)|Medium|
 |764|[Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/)|[Java](src/medium/LargestPlusSign.java)|Medium|
+|740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[Java](src/medium/DeleteAndEarn.java)|Medium|
 |718|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|[Java](src/medium/MaximumLengthOfRepeatedSubarray.java)|Medium|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Java](src/medium/BestTimeBuyAndSellStockWithTransactionFee.java)|Medium|
 |712|[Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)|[Java](src/medium/MinimumAsciiDeleteSumForTwoStrings.java)|Medium|
