@@ -17,6 +17,7 @@ Dynamic Programming
 |1140|[Stone Game II](https://leetcode.com/problems/stone-game-ii/)|[Java](src/medium/StoneGameII.java)|Medium|
 |1139|[Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/)|[Java](src/medium/Largest1BorderedSquare.java)|Medium|
 |1130|[Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)|[Java](src/medium/MinimumCostTreeFromLeafValues.java)|Medium|
+|1049|[Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)|[Java](src/medium/LastStoneWeightII.java)|Medium|
 |1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Java](src/medium/LongestStringChain.java)|Medium|
 |1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)|[Java](src/medium/MinimumScoreTriangulationOfPolygon.java)|Medium|
 |1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/)|[Java](src/medium/LongestArithmeticSequence.java)|Medium|
