@@ -3,6 +3,7 @@ Dynamic Programming
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1301|[Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/)|[Java](src/hard/NumberOfPathsWithMaxScore.java)|Hard|
 |1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)|[Java](src/hard/MaximumScoreWordsFormedByLetters.java)|Hard|
 |1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)|[Java](src/hard/MaximumProfitInJobScheduling.java)|Hard|
 |1125|[Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)|[Java](src/hard/SmallestSufficientTeam.java)|Hard|
