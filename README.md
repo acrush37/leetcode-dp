@@ -10,6 +10,7 @@ Dynamic Programming
 |1000|[Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/)|[Java](src/hard/MinimumCostToMergeStones.java)|Hard|
 |982|[Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/)|[Java](src/hard/TriplesWithBitwiseAndEqualToZero.java)|Hard|
 |552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)|[Java](src/hard/StudentAttendanceRecordII.java)|Hard|
+|546|[Remove Boxes](https://leetcode.com/problems/remove-boxes/)|[Java](src/hard/RemoveBoxes.java)|Hard|
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/)|[Java](src/hard/FrogJump.java)|Hard|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Java](src/hard/BestTimeBuyAndSellStockIII.java)|Hard|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Java](src/medium/CountSquareSubmatricesWithAllOnes.java)|Medium|
