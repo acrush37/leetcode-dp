@@ -61,6 +61,7 @@ Dynamic Programming
 |646|[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|[Java](src/medium/MaximumLengthOfPairChain.java)|Medium|
 |576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|[Java](src/medium/OutOfBoundaryPaths.java)|Medium|
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[Java](src/medium/ContinuousSubarraySum.java)|Medium|
+|516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[Java](src/medium/LongestPalindromicSubsequence.java)|Medium|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Java](src/medium/TargetSum.java)|Medium|
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Java](src/medium/PredictTheWinner.java)|Medium|
 |474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[Java](src/medium/OnesAndZeroes.java)|Medium|
