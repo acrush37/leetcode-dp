@@ -11,8 +11,10 @@ public class CreateMaximumNumber {
 
     public static void main(String... args) {
 
+        int[] nums1 = {6, 7};
+        int[] nums2 = {6, 0, 4};
         CreateMaximumNumber createMaximumNumber = new CreateMaximumNumber();
-        System.out.println(createMaximumNumber);
+        System.out.println(createMaximumNumber.maxNumber(nums1, nums2, 5));
     }
 
     private int[] merge(int[] a, int[] b, int k, int m, int n) {
