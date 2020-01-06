@@ -19,6 +19,7 @@ Dynamic Programming
 |514|[Freedom Trail](https://leetcode.com/problems/freedom-trail/)|[Java](src/hard/FreedomTrail.java)|Hard|
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/)|[Java](src/hard/FrogJump.java)|Hard|
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[Java](src/hard/RussianDollEnvelopes.java)|Hard|
+|321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)|[Java](src/hard/CreateMaximumNumber.java)|Hard|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Java](src/hard/BestTimeBuyAndSellStockIII.java)|Hard|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Java](src/medium/CountSquareSubmatricesWithAllOnes.java)|Medium|
 |1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[Java](src/medium/GreatestSumDivisibleByThree.java)|Medium|
