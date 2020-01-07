@@ -12,6 +12,7 @@ Dynamic Programming
 |1000|[Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/)|[Java](src/hard/MinimumCostToMergeStones.java)|Hard|
 |982|[Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/)|[Java](src/hard/TriplesWithBitwiseAndEqualToZero.java)|Hard|
 |956|[Tallest Billboard](https://leetcode.com/problems/tallest-billboard/)|[Java](src/hard/TallestBillboard.java)|Hard|
+|871|[Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|[Java](src/hard/MinimumNumberOfRefuelingStops.java)|Hard|
 |818|[Race Car](https://leetcode.com/problems/race-car/)|[Java](src/hard/RaceCar.java)|Hard|
 |741|[Cherry Pickup](https://leetcode.com/problems/cherry-pickup/)|[Java](src/hard/CherryPickup.java)|Hard|
 |691|[Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/)|[Java](src/hard/StickersToSpellWord.java)|Hard|
