@@ -16,6 +16,7 @@ Dynamic Programming
 |818|[Race Car](https://leetcode.com/problems/race-car/)|[Java](src/hard/RaceCar.java)|Hard|
 |741|[Cherry Pickup](https://leetcode.com/problems/cherry-pickup/)|[Java](src/hard/CherryPickup.java)|Hard|
 |691|[Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/)|[Java](src/hard/StickersToSpellWord.java)|Hard|
+|600|[Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/)|[Java](src/hard/NonNegativeIntegersWithoutConsecutiveOnes.java)|Hard|
 |552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)|[Java](src/hard/StudentAttendanceRecordII.java)|Hard|
 |546|[Remove Boxes](https://leetcode.com/problems/remove-boxes/)|[Java](src/hard/RemoveBoxes.java)|Hard|
 |514|[Freedom Trail](https://leetcode.com/problems/freedom-trail/)|[Java](src/hard/FreedomTrail.java)|Hard|
