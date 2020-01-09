@@ -12,19 +12,25 @@ public class NumbersAtMostNGivenDigitSet {
 
     public static void main(String... args) {
 
-        String[] D = {"3", "4", "8"};
+        String[] D = {"1", "3", "5", "7"};
         NumbersAtMostNGivenDigitSet numbersAtMostNGivenDigitSet = new NumbersAtMostNGivenDigitSet();
-        System.out.println(numbersAtMostNGivenDigitSet.atMostNGivenDigitSet(D, 4));
+        System.out.println(numbersAtMostNGivenDigitSet.atMostNGivenDigitSet(D, 100));
     }
 
     public int atMostNGivenDigitSet(String[] D, int N) {
 
         char[] ch = (N + "").toCharArray();
         int n = ch.length;
+        boolean[] t = new boolean[10];
         int[] c = new int[n], f = new int[10];
-        for (int i = 0; i < n; i++) c[i] = ch[i] - 48;
-        for (int i = 0; i < D.length; i++) f[Integer.parseInt(D[i])] = i+1;
         int m = Integer.parseInt(D[D.length-1]);
+        for (int i = 0; i < n; i++) c[i] = ch[i] - 48;
+
+        for (int i = 0; i < D.length; i++) {
+            int x = Integer.parseInt(D[i]);
+            t[x] = true;
+            f[x] = i+1;
+        }
 
         if (f[c[0]] == 0)
             for (int i = c[0]-1; i >= 1; i--)
@@ -34,27 +40,25 @@ public class NumbersAtMostNGivenDigitSet {
                     break;
                 }
 
-        if (f[c[0]] == 0) return 0;
-
         for (int i = 0; i < D.length-1; i++) {
             int x = Integer.parseInt(D[i]);
             int y = Integer.parseInt(D[i+1]);
-            for (int j = x+1; j < y; j++) f[j] = f[x];
+            for (int j = x+1; j < y; j++) f[j] = f[y];
         }
 
+        for (int i = m+1; i <= 9; i++) f[i] = f[m] + 1;
         if (n == 1) return f[c[0]];
-        c[0] = Math.min(c[0], 1);
-        int result = 0, k = 1;
-        for (int i = m+1; i <= 9; i++) f[i] = f[m];
-        for (int i = 1; i < n; i++) result += c[0] * (k *= D.length);
-        k = 1;
+        int[] a = new int[n];
+        int result = 0;
+        a[0] = 1;
+        for (int i = 1; i < n; i++) result += a[i] = a[i-1] * D.length;
 
-        for (int i = 1; i < n; i++) {
-            if (f[c[i]] == 0) return result;
-            k *= f[c[i]];
+        for (int i = 0; i < n; i++) {
+            if (f[c[i]] != 0) result += (f[c[i]] - 1) * a[n-i-1];
+            if (!t[c[i]]) return result;
         }
 
-        return result + k;
+        return result+1;
     }
 
 }
