@@ -11,6 +11,7 @@ Dynamic Programming
 |1125|[Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)|[Java](src/hard/SmallestSufficientTeam.java)|Hard|
 |1000|[Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/)|[Java](src/hard/MinimumCostToMergeStones.java)|Hard|
 |982|[Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/)|[Java](src/hard/TriplesWithBitwiseAndEqualToZero.java)|Hard|
+|960|[Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/)|[Java](src/hard/DeleteColumnsToMakeSortedIII.java)|Hard|
 |956|[Tallest Billboard](https://leetcode.com/problems/tallest-billboard/)|[Java](src/hard/TallestBillboard.java)|Hard|
 |902|[Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)|[Java](src/hard/NumbersAtMostNGivenDigitSet.java)|Hard|
 |871|[Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|[Java](src/hard/MinimumNumberOfRefuelingStops.java)|Hard|
