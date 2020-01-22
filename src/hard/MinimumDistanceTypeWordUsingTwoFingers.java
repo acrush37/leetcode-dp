@@ -18,7 +18,29 @@ public class MinimumDistanceTypeWordUsingTwoFingers {
 
     public int minimumDistance(String word) {
 
+        int n = word.length();
+        if (n <= 2) return 0;
+        int[][] t = new int[27][27];
+        char[] c = word.toCharArray();
+        int[][][] f = new int[2][27][27];
 
+        for (int i = 0; i < 26; i++) {
+            int x = i / 6, y = i % 6;
+            for (int j = i; j < 26; j++) t[i][j] = t[j][i] = Math.abs(x - j / 6) + Math.abs(y - j % 6);
+        }
+
+        for (int i = n-1; i >= 0; i--) {
+
+            int x = i & 1;
+            int y = x ^ 1;
+            int p = c[i] - 65;
+
+            for (int j = 0; j <= 26; j++)
+                for (int k = 0; k <= 26; k++)
+                    f[x][j][k] = Math.min(f[y][p][k] + t[p][j], f[y][j][p] + t[p][k]);
+        }
+
+        return f[0][26][26];
     }
 
 }
