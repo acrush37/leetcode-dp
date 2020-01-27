@@ -10,6 +10,7 @@ Dynamic Programming
 |1278|[Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/)|[Java](src/hard/PalindromePartitioningIII.java)|Hard|
 |1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)|[Java](src/hard/MaximumScoreWordsFormedByLetters.java)|Hard|
 |1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)|[Java](src/hard/MaximumProfitInJobScheduling.java)|Hard|
+|1220|[Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)|[Java](src/hard/CountVowelsPermutation.java)|Hard|
 |1187|[Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/)|[Java](src/hard/MakeArrayStrictlyIncreasing.java)|Hard|
 |1125|[Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)|[Java](src/hard/SmallestSufficientTeam.java)|Hard|
 |1092|[Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)|[Java](src/hard/ShortestCommonSupersequence.java)|Hard|
