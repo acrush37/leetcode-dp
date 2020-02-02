@@ -3,6 +3,7 @@ Dynamic Programming
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1344|[Jump Game V](https://leetcode.com/problems/jump-game-v/)|[Java](src/hard/JumpGameV.java)|Hard|
 |1335|[Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)|[Java](src/hard/MinimumDifficultyOfJobSchedule.java)|Hard|
 |1320|[Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/)|[Java](src/hard/MinimumDistanceTypeWordUsingTwoFingers.java)|Hard|
 |1312|[Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)|[Java](src/hard/MinimumInsertionStepsToMakeStringPalindrome.java)|Hard|
