@@ -14,7 +14,7 @@ package hard;
  */
 public class JumpGameV {
 
-    private Integer[] f;
+    private int[] f;
 
     public static void main(String... args) {
 
@@ -25,19 +25,19 @@ public class JumpGameV {
 
     private int dfs(int p, int n, int d, int[] a) {
 
-        if (f[p] != null) return f[p];
+        if (f[p] != 0) return f[p];
         f[p] = 1;
         int x = Math.min(n, p+d), y = Math.max(0, p-d);
 
         for (int i = p+1; i <= x; i++) {
             if (a[i] >= a[p]) break;
-            if (f[i] == null) f[i] = dfs(i, n, d, a);
+            if (f[i] == 0) f[i] = dfs(i, n, d, a);
             f[p] = Math.max(f[p], f[i] + 1);
         }
 
         for (int i = p-1; i >= y; i--) {
             if (a[i] >= a[p]) break;
-            if (f[i] == null) f[i] = dfs(i, n, d, a);
+            if (f[i] == 0) f[i] = dfs(i, n, d, a);
             f[p] = Math.max(f[p], f[i] + 1);
         }
 
@@ -47,10 +47,10 @@ public class JumpGameV {
     public int maxJumps(int[] arr, int d) {
 
         int result = 0, n = arr.length;
-        f = new Integer[n];
+        f = new int[n];
 
         for (int i = 0; i < n; i++)
-            result = Math.max(result, f[i] != null ? f[i] : dfs(i, n-1, d, arr));
+            result = Math.max(result, f[i] != 0 ? f[i] : dfs(i, n-1, d, arr));
 
         return result;
     }
