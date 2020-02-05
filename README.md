@@ -8,6 +8,7 @@ Dynamic Programming
 |1320|[Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/)|[Java](src/hard/MinimumDistanceTypeWordUsingTwoFingers.java)|Hard|
 |1312|[Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)|[Java](src/hard/MinimumInsertionStepsToMakeStringPalindrome.java)|Hard|
 |1301|[Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/)|[Java](src/hard/NumberOfPathsWithMaxScore.java)|Hard|
+|1289|[Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)|[Java](src/hard/MinimumFallingPathSumII.java)|Hard|
 |1278|[Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/)|[Java](src/hard/PalindromePartitioningIII.java)|Hard|
 |1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)|[Java](src/hard/MaximumScoreWordsFormedByLetters.java)|Hard|
 |1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)|[Java](src/hard/MaximumProfitInJobScheduling.java)|Hard|
