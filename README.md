@@ -79,6 +79,7 @@ Dynamic Programming
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)|[Java](src/medium/TwoKeysKeyboard.java)|Medium|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Java](src/medium/PalindromicSubstrings.java)|Medium|
 |646|[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|[Java](src/medium/MaximumLengthOfPairChain.java)|Medium|
+|638|[Shopping Offers](https://leetcode.com/problems/shopping-offers/)|[Java](src/medium/ShoppingOffers.java)|Medium|
 |576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|[Java](src/medium/OutOfBoundaryPaths.java)|Medium|
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[Java](src/medium/ContinuousSubarraySum.java)|Medium|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[Java](src/medium/LongestPalindromicSubsequence.java)|Medium|
