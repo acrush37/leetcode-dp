@@ -31,6 +31,7 @@ Dynamic Programming
 |546|[Remove Boxes](https://leetcode.com/problems/remove-boxes/)|[Java](src/hard/RemoveBoxes.java)|Hard|
 |514|[Freedom Trail](https://leetcode.com/problems/freedom-trail/)|[Java](src/hard/FreedomTrail.java)|Hard|
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/)|[Java](src/hard/FrogJump.java)|Hard|
+|363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|[Java](src/hard/MaxSumRectangleNoLargerThanK.java)|Hard|
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[Java](src/hard/RussianDollEnvelopes.java)|Hard|
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)|[Java](src/hard/CreateMaximumNumber.java)|Hard|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[Java](src/hard/BestTimeBuyAndSellStockIV.java)|Hard|
