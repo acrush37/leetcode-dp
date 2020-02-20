@@ -41,6 +41,7 @@ Dynamic Programming
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[Java](src/hard/DistinctSubsequences.java)|Hard|
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[Java](src/hard/InterleavingString.java)|Hard|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](src/hard/EditDistance.java)|Hard|
+|1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)|[Java](src/medium/MatrixBlockSum.java)|Medium|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Java](src/medium/CountSquareSubmatricesWithAllOnes.java)|Medium|
 |1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[Java](src/medium/GreatestSumDivisibleByThree.java)|Medium|
 |1227|[Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/)|[Java](src/medium/AirplaneSeatAssignmentProbability.java)|Medium|
