@@ -3,6 +3,7 @@ Dynamic Programming
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1363|[Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three/)|[Java](src/hard/LargestMultipleOfThree.java)|Hard|
 |1359|[Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)|[Java](src/hard/CountAllValidPickupAndDeliveryOptions.java)|Hard|
 |1344|[Jump Game V](https://leetcode.com/problems/jump-game-v/)|[Java](src/hard/JumpGameV.java)|Hard|
 |1335|[Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)|[Java](src/hard/MinimumDifficultyOfJobSchedule.java)|Hard|
