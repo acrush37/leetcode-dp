@@ -36,6 +36,7 @@ Dynamic Programming
 |363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|[Java](src/hard/MaxSumRectangleNoLargerThanK.java)|Hard|
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[Java](src/hard/RussianDollEnvelopes.java)|Hard|
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)|[Java](src/hard/CreateMaximumNumber.java)|Hard|
+|312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[Java](src/hard/BurstBalloons.java)|Hard|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[Java](src/hard/BestTimeBuyAndSellStockIV.java)|Hard|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[Java](src/hard/DungeonGame.java)|Hard|
 |132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[Java](src/hard/PalindromePartitioningII.java)|Hard|
