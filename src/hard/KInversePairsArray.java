@@ -24,8 +24,8 @@ public class KInversePairsArray {
 
         for (int i = 1; i <= n; i++) {
 
-            int q = (p = i & 1) ^ 1, r = Math.min(k, (i * (i-1)) >> 1);
-            f[p][0] = 1;
+            f[p = i & 1][0] = 1;
+            int q = p ^ 1, r = Math.min(k, (i * (i-1)) >> 1);
 
             for (int j = 1; j <= r; j++)
                 f[p][j] = ((f[p][j-1] + f[q][j]) % m + m - (i <= j ? f[q][j-i] : 0)) % m;
