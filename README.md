@@ -23,6 +23,7 @@ Dynamic Programming
 |975|[Odd Even Jump](https://leetcode.com/problems/odd-even-jump/)|[Java](src/hard/OddEvenJump.java)|Hard|
 |960|[Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/)|[Java](src/hard/DeleteColumnsToMakeSortedIII.java)|Hard|
 |956|[Tallest Billboard](https://leetcode.com/problems/tallest-billboard/)|[Java](src/hard/TallestBillboard.java)|Hard|
+|940|[Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)|[Java](src/hard/DistinctSubsequencesII.java)|Hard|
 |902|[Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)|[Java](src/hard/NumbersAtMostNGivenDigitSet.java)|Hard|
 |871|[Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|[Java](src/hard/MinimumNumberOfRefuelingStops.java)|Hard|
 |818|[Race Car](https://leetcode.com/problems/race-car/)|[Java](src/hard/RaceCar.java)|Hard|
