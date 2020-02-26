@@ -28,6 +28,7 @@ Dynamic Programming
 |871|[Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|[Java](src/hard/MinimumNumberOfRefuelingStops.java)|Hard|
 |818|[Race Car](https://leetcode.com/problems/race-car/)|[Java](src/hard/RaceCar.java)|Hard|
 |741|[Cherry Pickup](https://leetcode.com/problems/cherry-pickup/)|[Java](src/hard/CherryPickup.java)|Hard|
+|730|[Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/)|[Java](src/hard/CountDifferentPalindromicSubsequences.java)|Hard|
 |691|[Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/)|[Java](src/hard/StickersToSpellWord.java)|Hard|
 |629|[K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)|[Java](src/hard/KInversePairsArray.java)|Hard|
 |600|[Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/)|[Java](src/hard/NonNegativeIntegersWithoutConsecutiveOnes.java)|Hard|
